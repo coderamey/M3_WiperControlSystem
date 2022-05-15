@@ -2,7 +2,8 @@
 A Wiper Speed Control System Controls the operational speed of the wiper in accordance with the rain condition. This Wiper Speed Control System is used in all types of vehicles the main purpose is to clean the rain air drops present in front screen of the vehicles. It is very difficult to drive the vehicles in rain condition so in this case we will use wipers to clean the front screen of vehicles which is mirror so that we can drive the vehicles even in rain also .A wiper speed control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions. The control system includes a rain sensor  detecting rain conditions to produce . an analog signal having an amplitude depending upon the detected rain conditions. The analog sensor signal is converted into a digital pulse signal by a converter  for application to a digital circuit system. A control signal is produced by digitally processing the pulse signal. The control signal is applied to a wiper driver circuit to adjust the operational speed or timing in accordance with the control signal.
 
 So In this project, the mechanism of wiper speed control system is explored and hence initial press of a button is going the start of Engine.that is the ON Operation of the Engine. Then the other three remaining presses of the button are going to be the different levels of speed control offered by the designed of the controller ranging from low, medium and high.that's the speed control system what we can say . The Last press of the button is assumed to be the stop of Engine means OFF the Engine by pressing last button. The movement of the wiper arm control system from left to right and back again by the blinking of the blue, green and orange LEDs in the desired pattern.
-![2-Figure1-1](https://user-images.githubusercontent.com/101514346/168252480-55187959-2550-4571-86a6-87638d60c851.png)
+![168442175-e04bf4fc-25eb-4774-ad21-e7e06bdd9015](https://user-images.githubusercontent.com/101514346/168488761-f4a21a0b-413e-4c80-8338-0720b52b4b09.jpg)
+
 
 
 # INTRODUCTION
@@ -90,3 +91,5 @@ Application is researched from various resources like from Google, YouTube and f
 
 ![167856955-3b087150-a413-4c15-a96c-beeb7d7db0ce](https://user-images.githubusercontent.com/101514346/168252124-f913740c-c157-49fd-9838-bb8492550b04.jpg)
 
+# ![168442192-74f422f6-157c-47c6-8e1e-ce7f63a67aff](https://user-images.githubusercontent.com/101514346/168488775-08dbd9bb-049b-43d2-be8b-5d30b3e048c2.jpg)
+output
