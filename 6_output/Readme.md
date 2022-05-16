@@ -1,9 +1,3 @@
-# Working Video :-
-
-
-
-https://user-images.githubusercontent.com/101514346/168479589-aba337fd-95e5-4f1f-94cc-c8f170dac683.mp4
-
 
 # Output Captured
 
